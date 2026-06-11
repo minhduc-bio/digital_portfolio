@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react';
 const navItems = [
   { label: 'Định hướng nghiên cứu & học tập', href: '#research' },
   { label: 'Kho lưu trữ bài tập số', href: '#projects' },
+  { label: 'Tổng kết', href: '#reflection'},
   { label: 'Toolkit', href: '#toolkit' },
   { label: 'Liên hệ', href: '#contact' },
 ];

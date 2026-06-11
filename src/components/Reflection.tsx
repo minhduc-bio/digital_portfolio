@@ -33,7 +33,7 @@ export default function Reflection() {
           className="mb-20 text-center flex flex-col items-center"
         >
           <p className="text-xs text-[#8494a7] tracking-[0.2em] uppercase mb-4">
-            Chia sẻ 
+            Tổng kết
           </p>
           <h2 className="text-3xl md:text-4xl text-[#2c3e50] font-noto-serif mb-6">
             DỰ ÁN CÁ NHÂN
